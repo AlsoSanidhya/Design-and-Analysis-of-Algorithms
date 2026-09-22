@@ -1,23 +1,31 @@
 # Design and Analysis of Algorithms
 
-A collection of lab programs and algorithm implementations developed as part of my DAA coursework.
+A structured collection of my DAA laboratory programs,
+algorithm implementations, and problem-solving practice in C.
 
-## 📚 Topics Covered
+## 📚 Topics
 
-- Searching Algorithms
-- Sorting Algorithms
-- Recursion
-- Divide and Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Graph Algorithms
-- Algorithm Analysis
-- Problem Solving
+| Topic | Concepts |
+|---|---|
+| Searching | Linear Search, Binary Search |
+| Sorting | Bubble, Selection, Insertion, Merge, Quick |
+| Recursion | Recursive problem solving |
+| Divide & Conquer | Merge Sort, Quick Sort |
+| Greedy | Activity Selection, Kruskal |
+| Dynamic Programming | DP fundamentals |
+| Graphs | BFS, DFS, MST |
+| Analysis | Time & Space Complexity |
 
-## 📂 Organization
+## 📁 Repository Structure
 
-Programs and lab work are organized week-wise for easy reference and practice.
-
-## 💻 Language
-
-- C
+```text
+Design-and-Analysis-of-Algorithms/
+│
+├── Basic C exercise/
+├── Binary search and linear search/
+├── Week3/
+├── Week4/
+├── Week5/
+├── Daily code/
+│
+└── README.md
